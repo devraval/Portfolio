@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio analysis and optimization
 This is a portfolio analysis and comparison of Vanguard MidCap ETF(IVOO) to the index it tracks, S&P 400 MidCap (MID). The main contents are:
 
 - Factor analysis of MID and IVOO, namely for market beta, Value and Size. 
